@@ -36,3 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoshito-off&show_icons=true&locale=en" alt="yoshito-off" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoshito-off&" alt="yoshito-off" /></p>
+
+
+PS : Tu veut faire comme moi ? Va sur se [site](https://rahuldkjain.github.io/gh-profile-readme-generator/)c'est magnifique 
