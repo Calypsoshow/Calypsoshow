@@ -38,4 +38,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoshito-off&" alt="yoshito-off" /></p>
 
 
-PS : Tu veut faire comme moi ? Va sur se [site](https://rahuldkjain.github.io/gh-profile-readme-generator/)c'est magnifique 
+PS : Tu veut faire comme moi ? Va sur se [site](https://rahuldkjain.github.io/gh-profile-readme-generator/) c'est magnifique 
